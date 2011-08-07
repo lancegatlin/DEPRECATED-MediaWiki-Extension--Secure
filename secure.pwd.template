@@ -1,0 +1,2 @@
+<?php
+define('SECURE_SERVER_PASSWORD','server_password_here');
